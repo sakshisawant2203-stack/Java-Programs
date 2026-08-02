@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 .idea/
 *.iml
+=======
+>>>>>>> cdec75255c33b40115b119542eb41a9bff248b76
 ### IntelliJ IDEA ###
 out/
 !**/src/main/**/out/
@@ -28,6 +31,7 @@ bin/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store.idea/
          *.iml
 
@@ -60,3 +64,6 @@ bin/
 
          ### Mac OS ###
          .DS_Store
+=======
+.DS_Store
+>>>>>>> cdec75255c33b40115b119542eb41a9bff248b76
